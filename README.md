@@ -9,6 +9,7 @@ This repository showcases how to use the **Reka Research** to build intelligent 
 ##  📋 More Examples in Other Languages
 
 - [Reka api-examples with Python](https://github.com/reka-ai/api-examples)
+- [Reka api-examples with .NET](https://github.com/reka-ai/api-examples-dotnet)
 
 ## 📚 What's in this repo
 
